@@ -15,7 +15,7 @@
       "prettier --write ."
     ]
   },
-  "author": "saimallik <rameshwaramsaimallik@gmail.com>",
+  "author": "vinod choudhary",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.25.0",
